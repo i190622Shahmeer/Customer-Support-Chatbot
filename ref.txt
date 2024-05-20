@@ -1,0 +1,7 @@
+https://builtin.com/machine-learning/siamese-network
+https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-data
+https://stackoverflow.com/questions/74594256/pytorch-error-loading-lib-site-packages-torch-lib-shm-dll-or-one-of-its-dep
+https://chatgpt.com/
+https://copilot.microsoft.com/
+https://zapier.com/blog/best-ai-chatbot/
+https://www.zdnet.com/article/best-ai-chatbot/
